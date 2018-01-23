@@ -9,25 +9,15 @@ Please feel free to tell me if my code are suck or bug.
 ## Structure
 .
 ├── app
-
 |   ├── controller
-
 |   ├── model 
-
 |   ├── config
-
 |   ├── library
-
 |   └── router.js
-
 ├── node_modules
-
 ├── test
-
 |   └── test.js
-
 ├── package.json
-
 └── server.js
 
 ## What Package Include
