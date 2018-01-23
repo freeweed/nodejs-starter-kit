@@ -2,23 +2,22 @@
 template for start awesome nodejs api faster. This starter include Package, Project Structure and custom plugin by me.
 
 ```
-#### NOTE
-Please feel free to tell me if my code are suck or bug.
+NOTE: Please feel free to tell me if my code are suck or bug.
 ```
 
 ## Structure
-.
-├── app
-|   ├── controller
-|   ├── model 
-|   ├── config
-|   ├── library
-|   └── router.js
-├── node_modules
-├── test
-|   └── test.js
-├── package.json
-└── server.js
+.<br/>
+├── app<br/>
+|   ├── controller<br/>
+|   ├── model <br/>
+|   ├── config<br/>
+|   ├── library<br/>
+|   └── router.js<br/>
+├── node_modules<br/>
+├── test<br/>
+|   └── test.js<br/>
+├── package.json<br/>
+└── server.js<br/>
 
 ## What Package Include
 ### For Develop
