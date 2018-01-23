@@ -40,3 +40,5 @@ Please feel free to tell me if my code are suck or bug.
 - mocha
 
 ## Author
+freeweed
+Email: freeweed.m@gmail.com
