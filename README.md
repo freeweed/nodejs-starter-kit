@@ -6,7 +6,6 @@ NOTE: Please feel free to tell me if my code are suck or bug.
 ```
 
 ## Structure
-.<br/>
 - app<br/>
   - controller<br/>
   - model <br/>
