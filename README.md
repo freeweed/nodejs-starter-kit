@@ -8,14 +8,14 @@ NOTE: Please feel free to tell me if my code are suck or bug.
 ## Structure
 .<br/>
 ├── app<br/>
-|   ├── controller<br/>
-|   ├── model <br/>
-|   ├── config<br/>
-|   ├── library<br/>
-|   └── router.js<br/>
+       ├── controller<br/>
+       ├── model <br/>
+       ├── config<br/>
+       ├── library<br/>
+       └── router.js<br/>
 ├── node_modules<br/>
 ├── test<br/>
-|   └── test.js<br/>
+         └── test.js<br/>
 ├── package.json<br/>
 └── server.js<br/>
 
